@@ -1,2 +1,0 @@
-# BorsaDemo
-![Uploading image.png…]()

@@ -1,3 +1,3 @@
 # BorsaDemo
 
-# Spring Mvc Web Projesi
+Spring Mvc Web Projesi
